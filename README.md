@@ -1,5 +1,5 @@
 
-My name is José Assis. I work as a Data Engineer at Cinnecta.
+My name is José Assis. I work as a Data Engineer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=josejnra&repo=josejnra&countColorcountColor)
 
